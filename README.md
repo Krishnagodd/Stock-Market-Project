@@ -2,6 +2,9 @@
 
 This project is focused on analyzing and comparing the performance of multiple company stocks using Python. It provides visual insights into historical trends, price patterns, and returns to assist in better understanding market behavior.
 
+## Dataset Used
+- https://drive.google.com/file/d/1i7Too9BOI6-A2QdfPsqGi2CzID09fVLE/view
+
 ---
 
 ## 📌 Overview
